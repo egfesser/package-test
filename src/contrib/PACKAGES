@@ -1,0 +1,10 @@
+Package: glmnet
+Version: 2.0-16
+Depends: Matrix (>= 1.0-6), utils, foreach
+Imports: methods
+Suggests: survival, knitr, lars
+License: GPL-2
+MD5sum: b08e707a345f1d1e19296b4a4f868059
+NeedsCompilation: yes
+
+
